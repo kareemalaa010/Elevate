@@ -4,7 +4,6 @@ app_publisher = "kareem"
 app_description = "Team Managment system"
 app_email = "kareemalaaaldin@gmail.com"
 app_license = "mit"
- 
 # Apps
 # ------------------
 
